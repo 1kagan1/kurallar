@@ -1,0 +1,10 @@
+name: kurallar
+version: '${project.version}'
+main: kagan0ft.kurallar.Kurallar
+api-version: '1.20'
+author: kagan1
+description: Made By Kagan1 - Kuralları Gösterir.
+commands:
+  kurallar:
+    usage: /kurallar
+    description: kuralları gösterir - Made By kagan1
